@@ -6,3 +6,12 @@ def determine_language(text):
         return 'english'
     else:
         return 'braille'
+    
+def braille_to_english(text):
+    pass
+
+def english_to_braille(text):
+    pass
+
+def main():
+    pass
